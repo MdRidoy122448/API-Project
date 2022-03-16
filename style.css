@@ -1,0 +1,9 @@
+.data-container{
+    display: flex;
+}
+p{
+    display: inline-block;
+}
+p > h1{
+    display: inline-block;
+}
